@@ -103,7 +103,7 @@ public class Main {
 
         Normalizador normalizador = new Normalizador();
 
-        System.out.println("<<<<<<<<<<EJERCICIO.4: NORMALIZADOR DE TEXTO SEGURO ===");
+        System.out.println("<<<<<<<<<<EJERCICIO.4: NORMALIZADOR DE TEXTO SEGURO>>>>>>>>>>");
         System.out.println("Escribe un texto (o 'salir' para terminar):");
 
         while (true) {
